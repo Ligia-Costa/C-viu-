@@ -3,13 +3,19 @@
 
 ![Imagem de capa](/assets/img/readme/CÊ%20VIU%20-%20ITAPEVA%20EVENTOS.png)
 
-**Descrição:**
+## Status
+🚧 Projeto em Construção 🚧
+
+## Descrição:
 Esse projeto tem como objetivo proporcionar maior visibilidade e fortalecer a cultura local da cidade de Itapeva, com uma interface gráfica intuitiva e de fácil acessibilidade para todas as idades.
+
 ## Índice
-- Funcionalidades
-- Tecnologias Utilizadas
-- Autores
-- Licença
+* [Descrição](#descrição)
+* [Funcionalidades](#funcionalidades)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Autores](#autores)
+* [Licença](#licença)
+
 ## Funcionalidades
 - Principais funcionalidades do projeto:
  - Visualizar as fotos e destaques da semana;

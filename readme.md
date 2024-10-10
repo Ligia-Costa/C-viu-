@@ -23,6 +23,7 @@ Esse projeto tem como objetivo proporcionar maior visibilidade e fortalecer a cu
 <img aling="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img aling="center" alt="java" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <div><br/>
+
 ## Autores
 
 - Julia de Moura Rosa - JuliaRosa0401 - juliarosa040108@gmail.com
@@ -30,5 +31,7 @@ Esse projeto tem como objetivo proporcionar maior visibilidade e fortalecer a cu
 - Lígia da Costa Silva - Ligia-Costa - ligia.costa.senai@gmail.com
 
 - Sarah Dias Venâncio - SarahVenancio - sarah.venancio.senaisp@gmail.com
+
 ## Licença
+
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.

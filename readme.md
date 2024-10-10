@@ -3,7 +3,6 @@
 
 ![Imagem de capa](/assets/img/readme/CÊ%20VIU%20-%20ITAPEVA%20EVENTOS.png)
 
-# CÊ VIU? - ITAPEVA EVENTOS
 **Descrição:**
 Esse projeto tem como objetivo proporcionar maior visibilidade e fortalecer a cultura local da cidade de Itapeva, com uma interface gráfica intuitiva e de fácil acessibilidade para todas as idades.
 ## Índice
